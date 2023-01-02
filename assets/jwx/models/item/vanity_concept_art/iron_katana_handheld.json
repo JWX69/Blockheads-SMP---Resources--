@@ -1,0 +1,6 @@
+{
+  "parent": "jwx:item/large_handheld",
+  "textures": {
+    "layer0": "jwx:item/iron_katana_handheld"
+  }
+}
